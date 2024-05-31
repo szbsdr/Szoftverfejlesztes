@@ -1,4 +1,4 @@
-javafx-fxml-pizza
+Pizza Application
 =================
 
 Szabó Sándor
